@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.recommendation.ALSModel","timestamp":1755155306903,"sparkVersion":"3.5.5","uid":"ALS_5643fdb8ad93","paramMap":{"userCol":"userIndex","blockSize":4096,"itemCol":"songIndex","coldStartStrategy":"drop"},"defaultParamMap":{"predictionCol":"prediction","userCol":"user","blockSize":4096,"itemCol":"item","coldStartStrategy":"nan"},"rank":10}
